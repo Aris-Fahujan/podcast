@@ -1,0 +1,29 @@
+/* 
+    Style : Themes Podcast
+    Author: Aris Fahujan
+*/
+
+// Nav
+.navbar-default {
+    background-color: transparent;
+    border: none;
+    .navbar-brand {
+        color: rgb(5, 4, 4);
+        background-color: transparent;
+    }
+}
+
+//  Hero 
+#hero {
+    position: relative;
+    width: auto;
+    background-image: url(../images/Podcsat1.png);
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    .eclipse {
+        position: relative;
+        width: auto;
+    }
+}
